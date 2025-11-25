@@ -74,9 +74,9 @@ With hands-on experience in software testing through internship and freelance pr
 ## 📊 GitHub Stats & Badges
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beabcanoy&theme=react)
-[![Top Programming Language](https://github-readme-stats.vercel.app/api/top-langs/?username=beabcanoy&layout=compact&theme=vision-friendly-dark)](https://github.com/beabcanoy/github-readme-stats)
 ![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=beabcanoy&theme=react)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=beabcanoy&theme=github-dark-blue)](https://git.io/streak-stats)
+[![Top Programming Language](https://github-readme-stats.vercel.app/api/top-langs/?username=beabcanoy&layout=compact&theme=vision-friendly-dark)](https://github.com/beabcanoy/github-readme-stats)
 
 ## 🛠️ Languages and Tools:
 
